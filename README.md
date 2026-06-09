@@ -104,7 +104,7 @@ Umbraprivacy-waitlist/
 ├── requirements.txt     # Python dependencies
 ├── README.md            # This file
 └── scripts/             # Other scripts (Evoevo project)
-    ├── autoreff.py      # Umbra Privacy auto referral bot
+    └── autoreff.py      # Umbra Privacy auto referral bot
 
 ```
 
